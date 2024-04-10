@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Theme">
+        <attr name="disableableButtonTextColor" format="color" />
+        <!-- Spinner with the popup style -->
+        <attr name="popupSpinnerStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ErrorState">
+        <attr name="error_state" format="enum">
+            <enum name="network" value="0" />
+            <enum name="empty" value="1" />
+            <enum name="load_error" value="2" />
+            <enum name="update_app" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="AccessErrorState">
+        <attr name="state" format="enum">
+            <enum name="audit_access_expired" value="0" />
+            <enum name="is_upgradeable" value="1" />
+            <enum name="not_started" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="EdxDiscussionBody">
+        <attr name="bodyTextAppearance" format="reference" />
+    </declare-styleable>
+
+    <!--  Font attributes for the app  -->
+    <!-- font-weight: 400 -->
+    <attr name="fontItalic" format="reference" />
+    <!-- font-weight: 400 -->
+    <attr name="fontRegular" format="reference" />
+    <!-- font-weight: 500 -->
+    <attr name="fontMedium" format="reference" />
+    <!-- font-weight: 600 -->
+    <attr name="fontSemiBold" format="reference" />
+    <!-- font-weight: 600 -->
+    <attr name="fontSemiBoldItalic" format="reference" />
+    <!-- font-weight: 700 -->
+    <attr name="fontBold" format="reference" />
+    <!-- font-weight: 400 -->
+    <attr name="fontSecondaryRegular" format="reference" />
+    <!-- font-weight: 500 -->
+    <attr name="fontSecondaryMedium" format="reference" />
+</resources>

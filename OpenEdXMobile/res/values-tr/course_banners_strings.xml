@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label Course Dates Banner Reset Date Button -->
+    <string name="course_dates_banner_reset_date_button">Bitiş tarihlerini değiştir</string>
+
+    <!-- Message Course Dates Info Banner -->
+    <string name="course_dates_info_banner">Öğreniminizin planlandığı gibi gitmesine yardımcı olmak için önerilen bir program oluşturduk. Ancak endişelenmeyin, bu esnek bir program olduğu için kendi hızınızda öğrenebilirsiniz.
+        Geride kalırsanız tarihleri plana uygun kalmanızı sağlayacak şekilde ayarlayabileceksiniz.</string>
+    <!-- Message Course Dates Banner Upgrade to Complete Graded -->
+    <string name="course_dates_banner_upgrade_to_graded">Bu kursun parçası olarak notlu ödevler tamamlamak için bugün yükseltme yapabilirsiniz.</string>
+    <!-- Message Course Dates Banner Upgrade to Reset -->
+    <string name="course_dates_banner_upgrade_to_reset">Bu kursu denetlemektesiniz,
+        dolayısıyla notlu ödevlere katılamazsınız. Önerilen programımıza göre bazı önemli son tarihleri kaçırmışsınız gibi görünüyor. Bu kursun parçası olarak notlu ödevler tamamlamak ve tarihi geçmiş ödevleri geleceğe taşımak için bugün yükseltme yapabilirsiniz.</string>
+    <!-- Label Course Card Graded Message -->
+    <string name="value_prop_course_card_message">Daha fazla özelliğe erişmek için yükseltme yapın</string>
+
+    <!-- Open in browser message -->
+    <string name="open_in_browser_message">Kursun bu kısmı en iyi bir web tarayıcısında çalışabilir.</string>
+    <!-- Open in browser Title -->
+    <string name="open_in_browser_text"><u>Tarayıcıda açın</u></string>
+</resources>

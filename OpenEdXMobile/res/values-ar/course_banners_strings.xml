@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label Course Dates Banner Reset Date Button -->
+    <string name="course_dates_banner_reset_date_button">تغيير المواعيد المقررة</string>
+
+    <!-- Message Course Dates Info Banner -->
+    <string name="course_dates_info_banner">لقد قمنا ببناء جدول زمني مقترح لمساعدتك على البقاء على المسار الصحيح.1 ولكن لا تقلق ، فهي مرنة بحيث يمكنك التعلم على السرعة الخاصة بك. إذا كنت تتخلف عن التواريخ المقترحة، ستكون قادرا على ضبطها للحفاظ على المسار</string>
+    <!-- Message Course Dates Banner Upgrade to Complete Graded -->
+    <string name="course_dates_banner_upgrade_to_graded">لتكمل الواجبات المقدرة كجزء من هذه الدورة، يمكنك الترقية اليوم</string>
+    <!-- Message Course Dates Banner Upgrade to Reset -->
+    <string name="course_dates_banner_upgrade_to_reset">أنت تراجع هذه الدورة ، 
+مما يعني أنك غير قادر على المشاركة في الواجبات المقدرة. يبدو أنك فاتتك بعض المواعيد النهائية المهمة بناءً على جدولنا الزمني المقترح. لإكمال الواجبات المقدرة كجزء من هذه الدورة التدريبية ونقل الواجبات السابقة المستحقة إلى المستقبل ، يمكنك الترقية اليوم.</string>
+    <!-- Label Course Card Graded Message -->
+    <string name="value_prop_course_card_message">قم بالترقية للوصول إلى المزيد من الميزات</string>
+
+    <!-- Open in browser message -->
+    <string name="open_in_browser_message">قد يعمل هذا الجزء من الدورة بشكل أفضل في متصفح الويب.</string>
+    <!-- Open in browser Title -->
+    <string name="open_in_browser_text">فتح في المتصفح</string>
+</resources>

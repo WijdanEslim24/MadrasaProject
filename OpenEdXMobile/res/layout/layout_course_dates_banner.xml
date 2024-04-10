@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:id="@+id/container_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/warningXXLight"
+        android:orientation="vertical"
+        android:padding="@dimen/edx_default_margin"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/banner_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="?attr/fontRegular"
+            android:textColor="@color/neutralXXDark"
+            android:textSize="@dimen/edx_x_small"
+            app:lineHeight="@dimen/edx_default_margin"
+            tools:text="@string/course_dashboard_banner_reset_date" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_shift_dates"
+            style="@style/edX.Widget.TertiaryActionButton"
+            android:layout_marginTop="@dimen/edx_default_margin"
+            android:text="@string/course_dates_banner_reset_date_button"
+            android:visibility="gone"
+            tools:visibility="visible" />
+    </LinearLayout>
+</layout>
